@@ -1,0 +1,9 @@
+README
+CHANGES
+Makefile.PL
+MANIFEST			This list of files
+script/wxkeyring
+t/01basic.t
+wxkeyring.wxg
+wxkeyring.spec
+META.yml                                 Module meta-data (added by MakeMaker)

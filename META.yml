@@ -1,0 +1,12 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         wxkeyring
+version:      0.93
+version_from: script/wxkeyring
+installdirs:  site
+requires:
+    Palm::Keyring:                 0.93
+    Wx:                            0.67
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.30
