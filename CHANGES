@@ -1,3 +1,9 @@
+0.94
+
+	For the category selection, use "All" versus one category.
+
+	Add POD.
+
 0.93
 
 	Reworked to use Palm::Keyring 0.93.

@@ -1,5 +1,5 @@
 Name:           wxkeyring
-Version:        0.93
+Version:        0.94
 Release:        1%{?dist}
 Summary:        Fetch info from GNU Keyring files
 

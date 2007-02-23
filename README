@@ -1,8 +1,11 @@
 wxKeyring - Interface to GNU Keyring databases
 
 This is a GUI (WxPerl) based program to consult GNU Keyring databases.
+It provides read-only access. Although updating the database would be
+possible, it requires special tools and techniques to synchronise with
+the Palm handheld, and there are other tools for that.
 
-Build & install as usual. Requires Wx.
+Build & install as usual. Requires Palm::Keyring and Wx.
 
 ----------------------------------------------------------------------------
 Johan Vromans                                           jvromans@squirrel.nl
